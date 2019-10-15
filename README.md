@@ -1,5 +1,6 @@
 # Aplicatie Orar Info. Anul I
-In momentul de fata, aplicatia se afla intr-un stadiu de pre-release. Aceasta va urma sa fie updatata cu elemente de visual design. Daca gasiti bug-uri sau erori la orar sa imi scrieti pe Facebook la "Buksa Rafael", eventual ii spuneti cuiva si va ajunge informatia la mine din intamplare ¯\_(ツ)_/¯.
+In momentul de fata, aplicatia se afla intr-un stadiu de pre-release. Aceasta va urma sa fie updatata cu elemente de visual design.
+
 ## Cum instalez aplicatia?
 Apesi pe acest link:
 
