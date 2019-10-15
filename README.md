@@ -1,4 +1,4 @@
-# Aplicatie Orar Info. Anul I
+# Aplicatie Orar Info. Anul I UO
 In momentul de fata, aplicatia se afla intr-un stadiu de pre-release. Aceasta va urma sa fie updatata cu elemente de visual design.
 
 ## Cum instalez aplicatia?
